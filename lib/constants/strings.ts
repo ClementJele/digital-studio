@@ -11,7 +11,7 @@ export const homePageStrings = [
 
     section3: {
       section3:
-        "Working with Digital Innovation Studio was an exceptional experience from start to finish",
+        "Working with Digital Innovation Studio was an exceptional experience from start to finish.",
     },
   },
 ];

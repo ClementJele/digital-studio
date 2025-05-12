@@ -2,7 +2,7 @@ import React from "react";
 
 const HomeContainerDivided = () => {
   return (
-    //i will make this a component which takes a title and subtitle as optional with stling
+    //i will make this a component which takes a title and subtitle as optional with classname
     <div className="w-full ">
       <div className="rounded-md bg-white">
         <div className="flex py-6 px-24">

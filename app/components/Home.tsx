@@ -100,7 +100,7 @@ const HomePage = () => {
             imageRefs.current[3] = el;
           }}
         />
-
+        {/* digita; studio title */}
         <div className="fixed  w-full h-screen pointer-events-none z-40 overflow-hidden">
           <h1
             ref={headingRef}
