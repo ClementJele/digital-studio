@@ -18,8 +18,10 @@ const HomeContainerDivided = () => {
           </div>
           <div className="flex flex-1 text-7xl font-bold">right-hand side</div>
         </div>
-        <div className="bg-gradient-to-t from-gray-600 to-gray-200 p-7 text-2xl w-full  bottom-0 rounded-b-md text-white/80">
-          LANDLITE
+        <div className="relative  p-7 w-full bottom-0 rounded-b-md overflow-hidden">
+          <div className="absolute inset-0 bg-gradient-to-t from-gray-600 to-gray-200 blur-lg z-9"></div>
+
+          <h2 className="relative z-10 text-2xl text-white/80">LANDLITE</h2>
         </div>
       </div>
     </div>
